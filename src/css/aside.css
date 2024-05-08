@@ -1,5 +1,7 @@
-/* .Aside {
-    width: 45%;
+
+.Aside {
+    display: flex;
+    width: 40%;
     float: left;
     padding: 7px;
     margin-left: 12px;
@@ -19,4 +21,4 @@
 
 .blog h5{
     font: 12px;
-} */
+}
